@@ -10,9 +10,6 @@ PROTECT YOU TOWER FROM THE ENEMY!
 6. Enemy Variant
 7. Enemy Following Path
 
-### Additional features :
-1. Backsound by https://mixkit.co/
-
 ## Getting Started
 1. Clone / Fork this repo
 2. Give this project Star!
